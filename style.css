@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200&family=Source+Serif+Pro&family=Tajawal&display=swap');
+
+.body1 {
+    background: rgb(101,101,101);
+    background: linear-gradient(0deg, rgb(156, 156, 156) 0%, rgb(202, 202, 202) 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Source Serif Pro', serif;
+    font-family: 'Changa', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.body2 {
+  background-image: url(/background.jpg);
+  background-origin: padding-box;
+  align-items: center;
+
+
+}
+form{
+  align-self: center;
+  size -moz-animation-iteration-count: 100px;
+}
+dic{
+  padding: 10px;
+  
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.table2 {
+  padding: 40px;
+}
+
